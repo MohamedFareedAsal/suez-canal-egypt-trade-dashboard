@@ -1,4 +1,6 @@
-# Suez Canal & Egypt Trade Dashboard (2015–2024)
+# Suez Canal & Egypt Trade Dashboard (2015–2024)\
+## Dashboard Preview
+![Dashboard](dashboard_overview.png)
 
 ## Overview
 This project analyzes the Suez Canal, Egypt's foreign trade, exchange rate movements, inflation, foreign reserves, and oil prices from 2015 to 2024.
