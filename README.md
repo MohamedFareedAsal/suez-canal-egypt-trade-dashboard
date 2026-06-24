@@ -26,6 +26,16 @@ This project analyzes the Suez Canal, Egypt's foreign trade, exchange rate movem
 - Correlation Analysis
 - Moving Average Analysis
 - Dashboard Design
+  
+## Skills Demonstrated
+- Excel Dashboard Design
+- Data Cleaning
+- Data Validation
+- Pivot Tables
+- Time-Series Analysis
+- Correlation Analysis
+- Economic Analysis
+- Data Visualization
 
 ## Author
 Mohamed Fareed
